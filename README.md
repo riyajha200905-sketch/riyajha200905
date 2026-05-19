@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0b0b0b,25:2f2408,50:8f6b13,75:f5d76e,100:fff6d5&text=Riya%20🌻&fontSize=78&fontColor=fffdf5&animation=twinkling&fontAlignY=36&desc=Information%20Technology%20Student%20✦%20Tech%20Work%20In%20Progress&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:050505,20:140b24,45:3b1f5c,70:8f6b13,100:f5d76e&text=Riya%20🌻&fontSize=84&fontColor=fffdf5&animation=twinkling&fontAlignY=36&desc=Information%20Technology%20Student%20✦%20Tech%20Work%20In%20Progress&descAlignY=60"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Marck+Script&size=38&duration=3500&pause=1200&color=F5D76E&center=true&vCenter=true&width=900&lines=debugging+life+one+error+at+a+time;trying+to+make+cool+things+work;powered+by+caffeine+and+late+night+ideas;still+figuring+everything+out" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Marck+Script&size=40&duration=3500&pause=1000&color=F5D76E&center=true&vCenter=true&width=950&lines=trying+to+make+cool+things+work;debugging+life+one+error+at+a+time;powered+by+caffeine+and+late+night+ideas;currently+running+on+curiosity+and+confusion" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140"/>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150"/>
 
 <br><br>
 
@@ -21,20 +21,20 @@
 # 🌻 about me
 
 ```yaml
-name: Riya
+name: Riya Jha
 major: Information Technology
 
 status:
-  surviving college with too many tabs open
+  surviving college with too many tabs open and some coffee
 
 currently:
-  - building DebateAI
-  - turning random ideas into projects
+  - building stuff random projects i think at 2am
+  - surviving college 
   - fighting frontend alignment issues
   - pretending bugs are features
 
 personality:
-  curious student with chaotic energy
+  curious student with barely any energy
 
 interests:
   - web development
@@ -60,25 +60,41 @@ interests:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyajha200905-sketch&show_icons=true&bg_color=00000000&title_color=F5D76E&text_color=ffffff&icon_color=F5D76E&border_color=F5D76E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyajha200905-sketch&show_icons=true&bg_color=00000000&title_color=F5D76E&text_color=ffffff&icon_color=9D4EDD&border_color=47266e"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajha200905-sketch&layout=compact&bg_color=00000000&title_color=F5D76E&text_color=ffffff&border_color=F5D76E"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajha200905-sketch&layout=compact&bg_color=00000000&title_color=F5D76E&text_color=ffffff&border_color=47266e"/>
 
 </p>
 
 ---
 
-# 🌻 contribution game
+# 🌻 contribution activity
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyajha200905-sketch&bg_color=0d1117&color=F5D76E&line=9D4EDD&point=7fff00&area=true&hide_border=true"/>
 
 </p>
 
 <div align="center">
 
-watching the snake consume my productivity one square at a time
+hover over the graph on github to see exact contribution counts 🌻
+
+</div>
+
+---
+
+# 🌻 contribution snake game
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<div align="center">
+
+watching the purple snake consume my productivity one square at a time
 
 </div>
 
@@ -106,13 +122,14 @@ watching the snake consume my productivity one square at a time
 it worked yesterday
 i changed nothing
 now it doesn't work
+i give up or maybe not
 ```
 
 </div>
 
 ---
 
-# 🌻 currently listening to while coding
+# 🌻 coding soundtrack
 
 <div align="center">
 
@@ -128,7 +145,7 @@ music makes debugging less painful
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="140"/>
+<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="150"/>
 
 <br><br>
 
