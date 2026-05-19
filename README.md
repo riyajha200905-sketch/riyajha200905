@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0a0a0a,35:2d2208,70:f5d76e,100:fff8dc&text=Riya%20🌻&fontSize=75&fontColor=fffdf5&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20✦%20Tech%20Work%20In%20Progress&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0b0b0b,25:2f2408,50:8f6b13,75:f5d76e,100:fff6d5&text=Riya%20🌻&fontSize=78&fontColor=fffdf5&animation=twinkling&fontAlignY=36&desc=Information%20Technology%20Student%20✦%20Tech%20Work%20In%20Progress&descAlignY=60"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=32&duration=3500&pause=1000&color=F5D76E&center=true&vCenter=true&width=850&lines=debugging+life+one+error+at+a+time;trying+to+make+cool+things+work;powered+by+caffeine+and+late+night+ideas;still+figuring+everything+out" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Marck+Script&size=38&duration=3500&pause=1200&color=F5D76E&center=true&vCenter=true&width=900&lines=debugging+life+one+error+at+a+time;trying+to+make+cool+things+work;powered+by+caffeine+and+late+night+ideas;still+figuring+everything+out" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="130"/>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="140"/>
 
 <br><br>
 
-✦ ⋆ ˚｡⋆୨🌻୧⋆｡˚ ⋆ ✦
+🌻 ⋆ ✦ ☾ ✦ ⋆ 🌻
 
 </div>
 
@@ -29,7 +29,7 @@ status:
 
 currently:
   - building DebateAI
-  - creating random ideas at 2am
+  - turning random ideas into projects
   - fighting frontend alignment issues
   - pretending bugs are features
 
@@ -41,7 +41,7 @@ interests:
   - creative tech
   - aesthetic UI
   - cool internet things
-  - making projects look prettier than they should
+  - making projects prettier than necessary
 ```
 
 ---
@@ -60,9 +60,9 @@ interests:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyajha200905-sketch&show_icons=true&theme=transparent&title_color=F5D76E&text_color=E8E8E8&icon_color=F5D76E&border_color=5c4b16"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyajha200905-sketch&show_icons=true&bg_color=00000000&title_color=F5D76E&text_color=ffffff&icon_color=F5D76E&border_color=F5D76E"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajha200905-sketch&layout=compact&theme=transparent&title_color=F5D76E&text_color=E8E8E8&border_color=5c4b16"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajha200905-sketch&layout=compact&bg_color=00000000&title_color=F5D76E&text_color=ffffff&border_color=F5D76E"/>
 
 </p>
 
@@ -72,7 +72,7 @@ interests:
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
